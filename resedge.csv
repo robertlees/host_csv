@@ -1,4 +1,4 @@
-Source,target,id,type,intensity
+Source,target,id,label,intensity
 132,55,1,LOVE,18
 149,34,2,LOVE,56
 133,26,3,LOVE,97
